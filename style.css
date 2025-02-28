@@ -1,0 +1,40 @@
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #e8ebf0;
+  font-family: Arial, sans-serif;
+}
+
+.calculator {
+  width: 320px;
+  background: #ffffff;
+  border-radius: 16px;
+  
+  
+}
+
+.calculator .display {
+  width: 100%;
+  height: 80px;
+  border: none;
+  background: #f9fafb;
+  text-align: right;
+}
+
+.calculator .buttons {
+  display: grid;
+
+  gap: 12px;
+}
+
+
+
+
+
+
+
+
+
